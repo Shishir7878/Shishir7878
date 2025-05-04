@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Shishir BK
 
-<!--
-**Shishir7878/Shishir7878** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Software Development student at Vanier College in Montreal, Quebec, expected to graduate in Sepember 2025.  
+💻 I’m passionate about building web and desktop applications that solve real-world problems.  
+🌱 Currently learning more about backend development, RESTful APIs, and modern frameworks.  
+📌 Originally from Kathmandu, Nepal.
 
-Here are some ideas to get you started:
+## 💼 Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Java, C#, Python, JavaScript, SQL  
+- **Web Development:** HTML, CSS, JavaScript, REST APIs, SOAP, Jakarta EE  
+- **Database:** MySQL, Query Optimization, Database Design  
+- **Tools & IDEs:** Git, GitHub, Visual Studio, Eclipse, NetBeans, Android Studio, VMware, Maven, NUnit  
+- **Other:** Agile Development, System Analysis, Unit Testing, Algorithm Design
+
+
+## 🌐 Let's Connect
+
+- 📧 Email: [shishirbk707@gmail.com](mailto:shishirbk707@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/shishir-bk-85b333354](https://www.linkedin.com/in/shishir-bk-85b333354)  
+
+---
+
